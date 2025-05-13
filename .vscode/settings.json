@@ -1,0 +1,10 @@
+{
+	"files.associations": { "*.xml": "html", "*.svg": "html" },
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"eslint.validate": ["javascript", "typescript", "svelte", "svg"],
+	"pgFormatter.tabs": true,
+	"[sql]": { "editor.defaultFormatter": "bradymholt.pgformatter" },
+	"[svelte]": { "editor.defaultFormatter": "svelte.svelte-vscode" }
+}
